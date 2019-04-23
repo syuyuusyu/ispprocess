@@ -48,7 +48,7 @@ http://cloud.yndk.cn/api/auth/isp/login?ispToken=4QJkn6Eh
 ```
 http://cloud.yndk.cn/api/auth/isp/logout?username=admin
 ```
-其中admin为当前退出的用户名,**应用系统**应该清除用户的登录状态,使得用户在退出后刷新页面时页面重定向到集成登录页:http:\\\\isp.yndk.cn
+其中admin为当前退出的用户名,**应用系统**应该清除用户的登录状态,使得用户在退出后刷新页面时页面重定向到集成登录页:http://isp.yndk.cn
 
 
 ## 推送用户信息
